@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXM.Hotel.Reservation", "AXM.Hotel.Reservation\AXM.Hotel.Reservation.csproj", "{50375F3F-A79E-41A2-B0A8-3C7E602CE7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXM.Hotel.Bill", "AXM.Hotel.Bill\AXM.Hotel.Bill.csproj", "{377396DE-33AC-457D-BEC5-69A58CC2EFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50375F3F-A79E-41A2-B0A8-3C7E602CE7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50375F3F-A79E-41A2-B0A8-3C7E602CE7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50375F3F-A79E-41A2-B0A8-3C7E602CE7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50375F3F-A79E-41A2-B0A8-3C7E602CE7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377396DE-33AC-457D-BEC5-69A58CC2EFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377396DE-33AC-457D-BEC5-69A58CC2EFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377396DE-33AC-457D-BEC5-69A58CC2EFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377396DE-33AC-457D-BEC5-69A58CC2EFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87FB73A-A0EB-4163-A8E6-9E81AA31FA00}
+	EndGlobalSection
+EndGlobal
