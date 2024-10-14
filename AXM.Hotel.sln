@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXM.Hotel.Bill", "AXM.Hotel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXM.Hotel.NewBill", "AXM.Hotel.NewBill\AXM.Hotel.NewBill.csproj", "{10901690-AC86-4F24-B146-FAD9F4193972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXM.GenerateQRImage", "AXM.GenerateQRImage\AXM.GenerateQRImage.csproj", "{7A5E311E-4560-4D95-A83C-BE18B56CE7A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{10901690-AC86-4F24-B146-FAD9F4193972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10901690-AC86-4F24-B146-FAD9F4193972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10901690-AC86-4F24-B146-FAD9F4193972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5E311E-4560-4D95-A83C-BE18B56CE7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5E311E-4560-4D95-A83C-BE18B56CE7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5E311E-4560-4D95-A83C-BE18B56CE7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5E311E-4560-4D95-A83C-BE18B56CE7A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

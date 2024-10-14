@@ -1573,13 +1573,6 @@
             <param name="sw">Stream writer to use to write the exception.</param>
             <param name="level">level of the exception, this deals with inner exceptions.</param>
         </member>
-        <member name="M:Microsoft.Crm.Services.Utility.Utility.Utilites.WriteObjectToDisk(System.Object,System.String)">
-            <summary>
-            Writes a binary object to disk
-            </summary>
-            <param name="o">object to write</param>
-            <param name="filename">fileName to write too.</param>
-        </member>
         <member name="T:CrmSvcUtil.InteractiveLogin.CRMInteractiveLogin">
             <summary>
             Interaction logic for CRMInteractiveLogin.xaml
